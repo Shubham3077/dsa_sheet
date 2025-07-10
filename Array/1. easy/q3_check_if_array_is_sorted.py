@@ -30,3 +30,11 @@ def isSorted(nums):
 
 res = isSorted([1, 2, 3, 4, 4, 5, 7])
 print(res, "result")
+# if the array is sorted -> done
+
+# if the array is sorted and Rotated: (leetcode ques: 1752)
+def is_rotated(nums):
+  return
+
+
+print(is_rotated(3, 4, 5, 1, 2))
