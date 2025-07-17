@@ -1,6 +1,8 @@
 # todo 1: question: 7 -> reverse integers
-# todo 1: question: 1752 -> check if array is sorted and rotated
-# todo 2: question: 26 -> remove duplicates from sorted array
+# todo 2: question: 1752 -> check if array is sorted and rotated
+# todo 3: question: 26 -> remove duplicates from sorted array
+# todo 4: question: 125 -> valid palindrome
+
 
 
 '''
